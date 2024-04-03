@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    border: solid 3px;
+    padding: 1em;
+    max-width: 75%;
+  }
+  .container {
+    display: grid;
+    place-items: center;
+    height: 8em;
+    align-items: center;
+    align-self: center
+  }
+
+.button{
+    cursor: pointer;
+    
+}
+#Square1{
+    
+    position: relative;
+    background-color: green;
+    height: 7em;
+    width:  75em;
+    ;
+
+}
+#Square2{
+    position: relative;
+    background-color:yellow;
+    height: 7em;
+    width:  75em;
+
+}
+#Square3{
+    position: relative;
+    background-color: blue;
+    height: 7em;
+    width:  85em;
+}
+#Square4{
+    position: relative;
+    background-color: red;
+    height: 100px;
+    width:  200px;
+
+}
+#Square5{
+    position: relative;
+    background-color: rgb(197, 255, 127);
+    height: 100px;
+    width:  200px;
+
+}
+#Square6{
+    position: relative';
+    background-color: rgb(137, 53, 193);
+    height: 100px;
+    width:  200px;
+
+}
+#Square7{
+    position: relative;
+    background-color: rgb(255, 127, 127);
+    height: 100px;
+    width:  200px;
+
+}
+#Square8{
+    position: relative;
+    background-color: aquamarine;
+    height: 100px;
+    width:  200px;
+
+}
+#Square9{
+    position: relative;
+    background-color: rgb(255, 182, 127);
+    height: 100px;
+    width:  200px;
+
+}
+#Square10{
+    position: relative;
+    background-color: rgb(127, 191, 255);
+    height: 100px;
+    width:  200px;
+
+}
+#Square11{
+    position: relative;
+    background-color: rgb(255, 127, 236);
+    height: 100px;
+    width:  200px;
+
+}
